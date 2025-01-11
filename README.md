@@ -30,7 +30,7 @@ Welcome to **Studycafe**, a responsive website designed for a modern study cafe.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/HarshJajaniya/study-cafe/blob/main/screenshot/1.png" alt="Additional Section" style="width: 50%;"/>
   <img src="https://github.com/HarshJajaniya/study-cafe/blob/main/screenshot/2.png" alt="Feature Section" style="width: 50%;"/>
-  <img src="3.png" alt="Testimonials Section" style="width: 23%;"/>
+  <img src="https://github.com/HarshJajaniya/study-cafe/blob/main/screenshot/3.png" alt="Testimonials Section" style="width: 50%;"/>
   <img src="2.png" alt="Features Section" style="width: 23%;"/>
   
 </div>
