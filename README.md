@@ -28,10 +28,11 @@ Welcome to **Studycafe**, a responsive website designed for a modern study cafe.
 # Images Side by Side
 
 <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/HarshJajaniya/study-cafe/blob/main/screenshot/1.png" alt="Additional Section" style="width: 50%;"/>
   <img src="4.png" alt="Footer Section" style="width: 23%;"/>
   <img src="3.png" alt="Testimonials Section" style="width: 23%;"/>
   <img src="2.png" alt="Features Section" style="width: 23%;"/>
-  <img src="1.png" alt="Additional Section" style="width: 23%;"/>
+  
 </div>
 
 ## 📂 Folder Structure
